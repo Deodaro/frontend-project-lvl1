@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 <!-- [![Node CI](https://github.com/deodaro/frontend-project-lvl1/actions/workflows/main.yml/badge.svg)](https://github.com/deodaro/frontend-project-lvl1/actions/workflows/main.yml/badge.svg) -->
-[![Node CI](https://github.com/deodaro/frontend-project-lvl1/workflows/main.yml/badge.svg)](https://github.com/deodaro/frontend-project-lvl1/actions)
+[![Node CI](https://github.com/deodaro/frontend-project-lvl1/actions/workflows/main.yml/badge.svg)](https://github.com/deodaro/frontend-project-lvl1/actions)
 
 <!-- [![Node CI](https://github.com/hexlet-boilerplates/nodejs-package/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/nodejs-package/actions) -->
 
