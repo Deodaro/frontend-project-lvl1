@@ -9,3 +9,5 @@
 <!-- [![Node CI](https://github.com/hexlet-boilerplates/nodejs-package/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/nodejs-package/actions) -->
 
 [![asciicast](https://asciinema.org/a/bgg0f7xyn6rgd66awEXLGTYiz.svg)](https://asciinema.org/a/bgg0f7xyn6rgd66awEXLGTYiz)
+
+[![asciicast](https://asciinema.org/a/zXrcezAcopvBozBERabUZDpQU.svg)](https://asciinema.org/a/zXrcezAcopvBozBERabUZDpQU)
